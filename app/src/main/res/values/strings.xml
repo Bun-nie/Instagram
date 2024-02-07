@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Instagram</string>
+    <!--Holders-->
+    <string name="hldr_blank"></string>
+    <string name="hldr_comment">Comment</string>
+    <!--Usernames-->
+    <string name="guada">its_guadalueee</string>
+    <string name="paul">its_paul</string>
+    <string name="francis">its_franci_zzz</string>
+    <string name="nina">its_ninzzz</string>
+    <string name="nicole">bun_nieee</string>
+    <string name="ana">ana_banana</string>
+    <string name="lee">jerem_lee</string>
+    <string name="gelo">gelotinnn</string>
+</resources>
